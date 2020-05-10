@@ -14,13 +14,13 @@ import pl.sdacademy.tasks.stucture.decorator.starcafe.drinks.Napoj;
  */
 public class Main {
     public static void main(String[] args) {
-        /** Odkomentuj poniższe!! usuń tą linię ! ----
+
         Napoj mocnoPalona = new MocnoPalona();
         System.out.println(mocnoPalona.pobierzOpis() + " " + mocnoPalona.koszt() + " zł");
 
         mocnoPalona = new Mleko(mocnoPalona);
 
         System.out.println(mocnoPalona.pobierzOpis() + " " + mocnoPalona.koszt() + " zł");
-         Odkomentuj poniższe!! usuń tą linię ! ---- **/
+
     }
 }
